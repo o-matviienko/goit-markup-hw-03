@@ -1,0 +1,22 @@
+.logo-ftr {
+  background: #2e2f42;
+  color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.accent-ftr {
+  color: #4d5ae5;
+}
+.logo-ftr p {
+  font-family: "Roboto", sans-serif;
+  text-transform: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}

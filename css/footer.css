@@ -1,4 +1,4 @@
-.logo-ftr {
+.footer {
   background: #2e2f42;
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
@@ -8,10 +8,10 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.accent-ftr {
+.accent-footer {
   color: #4d5ae5;
 }
-.logo-ftr p {
+.footer p {
   font-family: "Roboto", sans-serif;
   text-transform: none;
   font-weight: 400;
@@ -19,4 +19,10 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+.footer {
+  padding: 100px;
+}
+.footer-text {
+  margin-top: 16px;
 }

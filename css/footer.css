@@ -25,4 +25,6 @@
 }
 .footer-text {
   margin-top: 16px;
+  max-width: 264px;
+  width: 100%;
 }

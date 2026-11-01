@@ -14,6 +14,8 @@
   color: #4d5ae5;
 }
 .nav-link {
+  display: inline-block;
+  padding: 24px 0;
   color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
@@ -27,6 +29,7 @@
   color: #404bbf;
 }
 .contacts-link {
+  padding: 24px 0;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -48,14 +51,12 @@
   align-items: center;
 }
 .main-nav-menu {
-  padding: 24px 0;
   display: flex;
-  align-utems: center;
+  align-items: center;
   gap: 40px;
 }
 .main-address-menu {
-  padding: 24px 0;
   display: flex;
-  align-utems: center;
+  align-items: center;
   gap: 40px;
 }

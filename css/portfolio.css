@@ -34,5 +34,5 @@
   row-gap: 48px;
 }
 .portfolio-name {
-  width: calc(100% - 48px) / 3;
+  width: calc((100% - 48px) / 3);
 }

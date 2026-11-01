@@ -5,14 +5,11 @@
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  margin-top: 32px;
-  margin-bottom: 8px;
 }
 .team p {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  margin-bottom: 32px;
 }
 .team {
   background-color: #f4f4fd;
@@ -40,5 +37,14 @@
   gap: 24px;
 }
 .team-img {
-  width: calc(100% - 72px) / 4;
+  width: calc((100% - 24px * 3) / 4);
+}
+.list-item-team {
+  padding: 32px 16px;
+  gap: 8px;
+  border-radius: 0 0 4px 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
 }
